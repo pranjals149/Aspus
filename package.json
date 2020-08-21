@@ -1,11 +1,26 @@
 {
     "name": "aspus",
     "displayName": "Aspus",
-    "description": "As we all know that light attracts bugs whereas dark prevents bugs. Therefore, this will be a dark theme to prevent bugs in an application",
+    "description": "This theme is specially designed for developers, for giving them an appealing feel for developing awesome applications, For the developers who loves to see a pattern in their code.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"
     },
+    "publisher": "Pranjal",
+    "author": "Pranjal Srivastava",
+    "homepage": "https://github.com/pranjals149/Aspus",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pranjals149/Aspus"
+    },
+    "icon": "./icon.jpg",
+    "keywords": [
+        "Dark Theme",
+        "Aspus",
+        "vscode theme",
+        "Aspus Theme",
+        "Aspus Dark"
+    ],
     "categories": [
         "Themes"
     ],
