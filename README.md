@@ -20,12 +20,12 @@ You will notice amazing styles for any keywords, classNames, etc. Color choices 
 ![screenshot](https://github.com/pranjals149/Aspus/blob/master/aspus.png)
 
 
-#Instructions
+# Instructions
 1. Launch Visual Studio Code.
 
 2. Goto Extensions.
 
-3. Search for **Aspus** theme.
+3. Search for `Aspus` theme.
 
 4. Install it.
 
