@@ -1,0 +1,21 @@
+{
+    "name": "aspus",
+    "displayName": "Aspus",
+    "description": "As we all know that light attracts bugs whereas dark prevents bugs. Therefore, this will be a dark theme to prevent bugs in an application",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aspus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aspus-color-theme.json"
+            }
+        ]
+    }
+}
