@@ -32,3 +32,14 @@ You will notice amazing styles for any keywords, classNames, etc. Color choices 
 5. To select the theme, follow the steps: `File -> Preferences -> Color Theme -> Aspus`.
 
 # Sidebar Configuration
+
+There are many things that can be manipulated. One of these is configuring your **sidebar**. Color Customizations can make things much more attractive. It is optional but if you want to configure then you can do it by making changes in `settings.json` file. Given below are the settings that can make things work.
+```
+"workbench.colorCustomizations": {
+    "activityBar.background": "#000C1D",
+    "activityBar.border": "#102a44",
+    "sideBar.background": "#001122",
+    "sideBar.border": "#102a44",
+    "sideBar.foreground": "#8BADC1"
+}
+```
