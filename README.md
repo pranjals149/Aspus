@@ -11,3 +11,8 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+# ASPUS-Dark
+### This theme is specially designed for developers, for giving them an appealing feel for developing awesome applications, For the developers who loves to see a pattern
+### in their code.
+### You will notice amazing styles for any keywords, classNames, etc.
