@@ -29,4 +29,4 @@ You will notice amazing styles for any keywords, classNames, etc. Color choices 
 
 4. Install it.
 
-5. To select the theme, follow the steps: File -> Preferences -> Color Theme.
+5. To select the theme, follow the steps: `File -> Preferences -> Color Theme -> Aspus`.
