@@ -3,7 +3,7 @@ This theme is specially designed for developers, for giving them an appealing fe
 
 You will notice amazing styles for any keywords, classNames, etc. Color choices have been made for easy and clear reading. You can view it in day-light also. 
 
-![screenshot](./aspus.png)
+![screenshot](https://github.com/pranjals149/Aspus/blob/master/aspus.png)
 
 
 # Instructions
