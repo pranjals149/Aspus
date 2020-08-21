@@ -40,6 +40,8 @@ There are many things that can be manipulated. One of these is configuring your 
 }
 ```
 
+**Note** Please update your Visual Studio Code to the newest version to use this theme.
+
 **Enjoy!**
 
 **Hope you like it !!**
